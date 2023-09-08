@@ -43,7 +43,7 @@
 			<groupId>org.springframework.boot</groupId> 
 			<artifactId>spring-boot-maven-plugin</artifactId>
 			<configuration> 
-			<mainClass>com.example.RestCrudDemo.RestCrudDemoApplication</mainClass> 
+			<mainClass>com.example.SpringRestDemoOnJenkins.SpringRestDemoOnJenkinsApplication</mainClass> 
 		</configuration>
 		</plugin> 
 	</plugins> 
